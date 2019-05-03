@@ -6,7 +6,7 @@ import os
 # if else elif
 # and or not
 
-age = 21
+age = 18
 if age > 16 :
     print('You are old enough to drive')
 else :
