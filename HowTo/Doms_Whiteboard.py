@@ -60,9 +60,65 @@ print(drone_components)
 drone_components.remove('Fart Noise Generator')
 print(drone_components)
 
-file = open("C:\\Users\\Dojod\\Documents\\Learning-Python\\HowTo\\chalkboard.txt", "w+") # If file doesn't exists, create one called 'chalkboard.txt'
-for a in drone: # For every Array(a) in Drone(array)
-    for i in a: # For every Item(i) in Array*fromDrone(a)
-        string = i + ' \n' # Write each item from Array(a) with a space added and new line after each
-        file.write(string) # Write to file
-file.close() # Close file
+#file = open("C:\\Users\\Dojod\\Documents\\Learning-Python\\HowTo\\chalkboard.txt", "w+") # If file doesn't exists, create one called 'chalkboard.txt'
+#for a in drone: # For every Array(a) in Drone(array)
+    #for i in a: # For every Item(i) in Array*fromDrone(a)
+        #string = i + ' \n' # Write each item from Array(a) with a space added and new line after each
+        #file.write(string) # Write to file
+#file.close() # Close file
+
+drone_maxDistance = 20
+drone_minDistance = 1
+drone_distance = 8 # Metres
+drone_inRange = False
+
+if drone_distance > 20 :
+    drone_inRange = False
+    print('Drone is not in range.')
+    print('drone_inRange = ' + str(drone_inRange))
+    print('drone_distance = ' + str(drone_distance))
+    print('')
+else :
+    drone_inRange = True
+    print('Drone is in range.')
+    print('drone_inRange = ' + str(drone_inRange))
+    print('drone_distance = ' + str(drone_distance))
+    print('')
+
+if drone_distance >= 21 :
+    print('I am out of range!')
+    print('')
+elif drone_distance >= 5 :
+    print('I am within range!')
+    print('')
+else :
+    print('I am following you!')
+    print('')
+
+if (drone_distance < 21) and (drone_distance > 5) :
+    print('I am within range!')
+    print('')
+elif (drone_distance < 5) and (drone_distance > 0) :
+    print('I am folllowing you!')
+    print('')
+elif (drone_distance > 21) :
+    print('I am out of range!')
+    print('')
+else :
+    print('Error')
+    print('')
+
+print('What would you like me to do?')
+command = sys.stdin.readline()
+print('Beginning ', command, 'routine now.')
+
+drone_component_ids = (1,2,3,4,5,6)
+
+list = list(drone_component_ids) # Contents can be edited
+tuple = tuple(list) # Contents cannot be edited
+
+print(list)
+print(tuple)
+print(len(tuple))
+print(min(tuple))
+print(max(tuple))
