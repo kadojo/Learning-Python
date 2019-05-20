@@ -128,3 +128,8 @@ def greeting():
     print('Good morning sir!')
 
 greeting()
+
+def checkBloodLevels():
+    print('Blood sugar levels -> 7.6')
+
+checkBloodLevels()
