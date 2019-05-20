@@ -122,3 +122,9 @@ print(tuple)
 print(len(tuple))
 print(min(tuple))
 print(max(tuple))
+
+# Functions
+def greeting():
+    print('Good morning sir!')
+
+greeting()
