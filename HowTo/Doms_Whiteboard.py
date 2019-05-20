@@ -133,3 +133,11 @@ def checkBloodLevels():
     print('Blood sugar levels -> 7.6')
 
 checkBloodLevels()
+
+def calculateRange():
+    if drone_distance > 20 :
+        print('Im too far away')
+    else :
+        print('Im within range')
+
+calculateRange()
