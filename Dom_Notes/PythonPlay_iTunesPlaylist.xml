@@ -1,0 +1,2270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2019-05-21T19:32:34Z</date>
+	<key>Application Version</key><string>12.9.4.104</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>6A6A9C48FCBF41EF</string>
+	<key>Tracks</key>
+	<dict>
+		<key>175</key>
+		<dict>
+			<key>Track ID</key><integer>175</integer>
+			<key>Name</key><string>Tunak Tunak Tun</string>
+			<key>Artist</key><string>Daler Mehndi</string>
+			<key>Album Artist</key><string>Daler Mehndi</string>
+			<key>Composer</key><string>Ravi Pawar</string>
+			<key>Album</key><string>Tunak Tunak Tun</string>
+			<key>Genre</key><string>Indian Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10830198</integer>
+			<key>Total Time</key><integer>303133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2019-05-21T19:12:10Z</date>
+			<key>Date Added</key><date>2016-04-12T21:45:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1998-09-30T07:00:00Z</date>
+			<key>Normalization</key><integer>4305</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Tunak Tunak Tun</string>
+			<key>Sort Artist</key><string>Daler Mehndi</string>
+			<key>Sort Name</key><string>Tunak Tunak Tun</string>
+			<key>Persistent ID</key><string>DCD277A07BEE2555</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Daler%20Mehndi/Tunak%20Tunak%20Tun/01%20Tunak%20Tunak%20Tun.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>202</key>
+		<dict>
+			<key>Track ID</key><integer>202</integer>
+			<key>Name</key><string>Danke Schoen</string>
+			<key>Artist</key><string>Wayne Newton</string>
+			<key>Album Artist</key><string>Wayne Newton</string>
+			<key>Album</key><string>Best Of The Early Years</string>
+			<key>Genre</key><string>Vocal</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6402282</integer>
+			<key>Total Time</key><integer>153912</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>22</integer>
+			<key>Track Count</key><integer>32</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2019-05-21T19:18:21Z</date>
+			<key>Date Added</key><date>2017-07-25T14:38:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-06-22T07:00:00Z</date>
+			<key>Normalization</key><integer>4400</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best Of The Early Years</string>
+			<key>Sort Artist</key><string>Wayne Newton</string>
+			<key>Sort Name</key><string>Danke Schoen</string>
+			<key>Persistent ID</key><string>C811340E584C011F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Best%20Of%20The%20Early%20Years/22%20Danke%20Schoen.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>295</key>
+		<dict>
+			<key>Track ID</key><integer>295</integer>
+			<key>Name</key><string>Johnny B. Goode</string>
+			<key>Artist</key><string>Chuck Berry</string>
+			<key>Album Artist</key><string>Chuck Berry</string>
+			<key>Composer</key><string>Chuck Berry</string>
+			<key>Album</key><string>Gold</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6049391</integer>
+			<key>Total Time</key><integer>159106</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>26</integer>
+			<key>Year</key><integer>1958</integer>
+			<key>Date Modified</key><date>2019-05-21T19:11:07Z</date>
+			<key>Date Added</key><date>2017-05-04T00:42:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1958-03-31T08:00:00Z</date>
+			<key>Normalization</key><integer>5464</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold</string>
+			<key>Sort Artist</key><string>Chuck Berry</string>
+			<key>Sort Name</key><string>Johnny B. Goode</string>
+			<key>Persistent ID</key><string>BDC68A171D760982</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Gold/1-17%20Johnny%20B.%20Goode.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>446</key>
+		<dict>
+			<key>Track ID</key><integer>446</integer>
+			<key>Name</key><string>Crazy He Calls Me</string>
+			<key>Artist</key><string>Billie Holiday</string>
+			<key>Album Artist</key><string>Billie Holiday</string>
+			<key>Composer</key><string>Carl Sigman &#38; Bob Russell</string>
+			<key>Album</key><string>Billie Holiday's Greatest Hits</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6598431</integer>
+			<key>Total Time</key><integer>183573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1949</integer>
+			<key>Date Modified</key><date>2019-05-21T19:10:00Z</date>
+			<key>Date Added</key><date>2014-11-29T22:48:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1949-01-01T07:00:00Z</date>
+			<key>Normalization</key><integer>464</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Billie Holiday's Greatest Hits</string>
+			<key>Sort Artist</key><string>Billie Holiday</string>
+			<key>Sort Name</key><string>Crazy He Calls Me</string>
+			<key>Persistent ID</key><string>663B7C88539E89B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Billie%20Holiday's%20Greatest%20Hits/18%20Crazy%20He%20Calls%20Me.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>449</key>
+		<dict>
+			<key>Track ID</key><integer>449</integer>
+			<key>Name</key><string>Cry</string>
+			<key>Artist</key><string>Godley &#38; Creme</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Kevin Godley &#38; Laurence Neil Creme</string>
+			<key>Album</key><string>True Power Ballads</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9230326</integer>
+			<key>Total Time</key><integer>237040</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2019-05-21T19:18:06Z</date>
+			<key>Date Added</key><date>2015-05-30T20:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1994-01-01T08:00:00Z</date>
+			<key>Normalization</key><integer>4377</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>True Power Ballads</string>
+			<key>Sort Artist</key><string>Godley &#38; Creme</string>
+			<key>Sort Name</key><string>Cry</string>
+			<key>Persistent ID</key><string>46BA67105DA234F0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/True%20Power%20Ballads/2-09%20Cry.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>470</key>
+		<dict>
+			<key>Track ID</key><integer>470</integer>
+			<key>Name</key><string>Mad World (feat. Gary Jules)</string>
+			<key>Artist</key><string>Michael Andrews</string>
+			<key>Album Artist</key><string>Michael Andrews</string>
+			<key>Album</key><string>Trading Snakeoil for Wolftickets</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6777406</integer>
+			<key>Total Time</key><integer>189506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2019-05-21T19:15:57Z</date>
+			<key>Date Added</key><date>2017-05-04T00:16:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2001-11-15T08:00:00Z</date>
+			<key>Normalization</key><integer>1230</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Trading Snakeoil for Wolftickets</string>
+			<key>Sort Artist</key><string>Michael Andrews</string>
+			<key>Sort Name</key><string>Mad World (feat. Gary Jules)</string>
+			<key>Persistent ID</key><string>E9B12D7320F42731</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Michael%20Andrews/Trading%20Snakeoil%20for%20Wolftickets/11%20Mad%20World%20(feat.%20Gary%20Jules).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>509</key>
+		<dict>
+			<key>Track ID</key><integer>509</integer>
+			<key>Name</key><string>Happy Times (From 1949 Show “Inspector General”)</string>
+			<key>Artist</key><string>Bob Crosby &#38; The Bob Cats</string>
+			<key>Album Artist</key><string>Bob Crosby &#38; The Bob Cats</string>
+			<key>Album</key><string>The Complete Standard Transcriptions: Bob Crosby and the Bobcats</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5884341</integer>
+			<key>Total Time</key><integer>165697</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2019-05-21T19:10:43Z</date>
+			<key>Date Added</key><date>2014-11-29T22:52:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2000-07-25T07:00:00Z</date>
+			<key>Normalization</key><integer>749</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Standard Transcriptions: Bob Crosby and the Bobcats</string>
+			<key>Sort Artist</key><string>Bob Crosby &#38; The Bob Cats</string>
+			<key>Sort Name</key><string>Happy Times (From 1949 Show “Inspector General”)</string>
+			<key>Persistent ID</key><string>82F456C7B1FE0ABB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Bob%20Crosby%20&#38;%20The%20Bob%20Cats/The%20Complete%20Standard%20Transcriptions_%20Bo/12%20Happy%20Times%20(From%201949%20Show%20_Insp.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>593</key>
+		<dict>
+			<key>Track ID</key><integer>593</integer>
+			<key>Name</key><string>No Heaven</string>
+			<key>Artist</key><string>Champion</string>
+			<key>Album Artist</key><string>Champion</string>
+			<key>Album</key><string>No Heaven Borderlands - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7472494</integer>
+			<key>Total Time</key><integer>206501</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2019-05-21T19:11:02Z</date>
+			<key>Date Added</key><date>2016-01-26T11:12:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2004-11-01T08:00:00Z</date>
+			<key>Normalization</key><integer>2088</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>No Heaven Borderlands - EP</string>
+			<key>Sort Artist</key><string>Champion</string>
+			<key>Sort Name</key><string>No Heaven</string>
+			<key>Persistent ID</key><string>A811FEC6A6C3407E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Champion/No%20Heaven%20Borderlands%20-%20EP/02%20No%20Heaven.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>605</key>
+		<dict>
+			<key>Track ID</key><integer>605</integer>
+			<key>Name</key><string>Legends of Azeroth (Main Title)</string>
+			<key>Artist</key><string>Tracy Bush</string>
+			<key>Album Artist</key><string>Tracy Bush, Derek Duke &#38; Jason Hayes</string>
+			<key>Album</key><string>World of Warcraft (Original Game Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6110176</integer>
+			<key>Total Time</key><integer>161093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>30</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2019-05-21T19:17:20Z</date>
+			<key>Date Added</key><date>2014-05-12T12:09:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2004-11-23T08:00:00Z</date>
+			<key>Normalization</key><integer>2606</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>World of Warcraft (Original Game Soundtrack)</string>
+			<key>Sort Artist</key><string>Tracy Bush</string>
+			<key>Sort Name</key><string>Legends of Azeroth (Main Title)</string>
+			<key>Persistent ID</key><string>217E15CF1BD819D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Tracy%20Bush,%20Derek%20Duke%20&#38;%20Jason%20Hayes/World%20of%20Warcraft%20(Original%20Game%20Soundtr/01%20Legends%20of%20Azeroth%20(Main%20Title).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>608</key>
+		<dict>
+			<key>Track ID</key><integer>608</integer>
+			<key>Name</key><string>The Menagerie</string>
+			<key>Artist</key><string>Martin O'Donnell &#38; Michael Salvatori</string>
+			<key>Album Artist</key><string>Martin O'Donnell &#38; Michael Salvatori</string>
+			<key>Album</key><string>Halo 3: ODST (Original Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>13840667</integer>
+			<key>Total Time</key><integer>369672</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2019-05-21T19:15:45Z</date>
+			<key>Date Added</key><date>2015-08-28T14:01:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-11-20T08:00:00Z</date>
+			<key>Normalization</key><integer>1093</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Halo 3: ODST (Original Soundtrack)</string>
+			<key>Sort Artist</key><string>Martin O'Donnell &#38; Michael Salvatori</string>
+			<key>Sort Name</key><string>Menagerie</string>
+			<key>Persistent ID</key><string>62EB4299D6E24FAA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Martin%20O'Donnell%20&#38;%20Michael%20Salvatori/Halo%203_%20ODST%20(Original%20Soundtrack)/05%20The%20Menagerie.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>638</key>
+		<dict>
+			<key>Track ID</key><integer>638</integer>
+			<key>Name</key><string>Stricken</string>
+			<key>Artist</key><string>Disturbed</string>
+			<key>Album Artist</key><string>Disturbed</string>
+			<key>Album</key><string>Ten Thousand Fists (Bonus Track Version)</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8941284</integer>
+			<key>Total Time</key><integer>245226</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2019-05-21T19:12:49Z</date>
+			<key>Date Added</key><date>2013-04-25T07:21:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2005-07-25T07:00:00Z</date>
+			<key>Normalization</key><integer>13383</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ten Thousand Fists (Bonus Track Version)</string>
+			<key>Sort Artist</key><string>Disturbed</string>
+			<key>Sort Name</key><string>Stricken</string>
+			<key>Persistent ID</key><string>2FCD1A73791E17FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Disturbed/Ten%20Thousand%20Fists%20(Bonus%20Track%20Version)/05%20Stricken.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>734</key>
+		<dict>
+			<key>Track ID</key><integer>734</integer>
+			<key>Name</key><string>One Final Effort</string>
+			<key>Artist</key><string>Martin O'Donnell &#38; Michael Salvatori</string>
+			<key>Album Artist</key><string>Martin O'Donnell &#38; Michael Salvatori</string>
+			<key>Album</key><string>Halo 3 (Original Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7355620</integer>
+			<key>Total Time</key><integer>188533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>31</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2019-05-21T19:15:28Z</date>
+			<key>Date Added</key><date>2015-08-28T13:32:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2002-06-11T07:00:00Z</date>
+			<key>Normalization</key><integer>1331</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Halo 3 (Original Soundtrack)</string>
+			<key>Sort Artist</key><string>Martin O'Donnell &#38; Michael Salvatori</string>
+			<key>Sort Name</key><string>One Final Effort</string>
+			<key>Persistent ID</key><string>E45A5694204FCCFE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Martin%20O'Donnell%20&#38;%20Michael%20Salvatori/Halo%203%20(Original%20Soundtrack)/18%20One%20Final%20Effort.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>755</key>
+		<dict>
+			<key>Track ID</key><integer>755</integer>
+			<key>Name</key><string>Indestructible</string>
+			<key>Artist</key><string>Disturbed</string>
+			<key>Album Artist</key><string>Disturbed</string>
+			<key>Album</key><string>Indestructible</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9853345</integer>
+			<key>Total Time</key><integer>278026</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-05-21T19:12:41Z</date>
+			<key>Date Added</key><date>2013-04-25T07:21:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-06-03T07:00:00Z</date>
+			<key>Normalization</key><integer>8282</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Indestructible</string>
+			<key>Sort Artist</key><string>Disturbed</string>
+			<key>Sort Name</key><string>Indestructible</string>
+			<key>Persistent ID</key><string>E0DC6A3F52F46DF0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Disturbed/Indestructible/01%20Indestructible.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>773</key>
+		<dict>
+			<key>Track ID</key><integer>773</integer>
+			<key>Name</key><string>Easy Living</string>
+			<key>Artist</key><string>Billie Holiday &#38; Teddy Wilson and His Orchestra</string>
+			<key>Album Artist</key><string>Billie Holiday</string>
+			<key>Composer</key><string>L. Robin &#38; R. Rainger</string>
+			<key>Album</key><string>The Real Billie Holiday</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6658739</integer>
+			<key>Total Time</key><integer>183306</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>1944</integer>
+			<key>Date Modified</key><date>2019-05-21T19:10:04Z</date>
+			<key>Date Added</key><date>2014-11-29T22:50:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1944-01-01T07:00:00Z</date>
+			<key>Normalization</key><integer>1253</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Real Billie Holiday</string>
+			<key>Sort Artist</key><string>Billie Holiday &#38; Teddy Wilson and His Orchestra</string>
+			<key>Sort Name</key><string>Easy Living</string>
+			<key>Persistent ID</key><string>A0A6A5C5339BEA93</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/The%20Real%20Billie%20Holiday/1-01%20Easy%20Living.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>776</key>
+		<dict>
+			<key>Track ID</key><integer>776</integer>
+			<key>Name</key><string>You Never Can Tell</string>
+			<key>Artist</key><string>Chuck Berry</string>
+			<key>Album Artist</key><string>Chuck Berry</string>
+			<key>Composer</key><string>Chuck Berry</string>
+			<key>Album</key><string>Gold</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6638802</integer>
+			<key>Total Time</key><integer>161560</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>1964</integer>
+			<key>Date Modified</key><date>2019-05-21T19:11:11Z</date>
+			<key>Date Added</key><date>2017-05-04T00:43:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1964-08-01T07:00:00Z</date>
+			<key>Normalization</key><integer>5708</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold</string>
+			<key>Sort Artist</key><string>Chuck Berry</string>
+			<key>Sort Name</key><string>You Never Can Tell</string>
+			<key>Persistent ID</key><string>3AC03A3720E25684</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Gold/2-16%20You%20Never%20Can%20Tell.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>797</key>
+		<dict>
+			<key>Track ID</key><integer>797</integer>
+			<key>Name</key><string>I Don't Want to Set the World On Fire</string>
+			<key>Artist</key><string>The Ink Spots</string>
+			<key>Album Artist</key><string>The Ink Spots</string>
+			<key>Album</key><string>The Ink Spots: 20 Classics</string>
+			<key>Genre</key><string>Vocal</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6385358</integer>
+			<key>Total Time</key><integer>177500</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1941</integer>
+			<key>Date Modified</key><date>2019-05-21T19:14:08Z</date>
+			<key>Date Added</key><date>2014-11-29T22:42:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1941-01-01T08:00:00Z</date>
+			<key>Normalization</key><integer>702</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ink Spots: 20 Classics</string>
+			<key>Sort Album Artist</key><string>Ink Spots</string>
+			<key>Sort Artist</key><string>Ink Spots</string>
+			<key>Sort Name</key><string>I Don't Want to Set the World On Fire</string>
+			<key>Persistent ID</key><string>98740CF6837F19EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/The%20Ink%20Spots/The%20Ink%20Spots_%2020%20Classics/09%20I%20Don't%20Want%20to%20Set%20the%20World%20On.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>860</key>
+		<dict>
+			<key>Track ID</key><integer>860</integer>
+			<key>Name</key><string>Finish the Fight</string>
+			<key>Artist</key><string>Martin O'Donnell &#38; Michael Salvatori</string>
+			<key>Album Artist</key><string>Martin O'Donnell &#38; Michael Salvatori</string>
+			<key>Album</key><string>Halo 3 (Original Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5874105</integer>
+			<key>Total Time</key><integer>147000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>31</integer>
+			<key>Track Count</key><integer>31</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2019-05-21T19:15:30Z</date>
+			<key>Date Added</key><date>2015-08-28T13:32:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2002-06-11T07:00:00Z</date>
+			<key>Normalization</key><integer>1681</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Halo 3 (Original Soundtrack)</string>
+			<key>Sort Artist</key><string>Martin O'Donnell &#38; Michael Salvatori</string>
+			<key>Sort Name</key><string>Finish the Fight</string>
+			<key>Persistent ID</key><string>C78B98E61B0B7FFB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Martin%20O'Donnell%20&#38;%20Michael%20Salvatori/Halo%203%20(Original%20Soundtrack)/31%20Finish%20the%20Fight.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>890</key>
+		<dict>
+			<key>Track ID</key><integer>890</integer>
+			<key>Name</key><string>Beyond the Sea</string>
+			<key>Artist</key><string>Bobby Darin</string>
+			<key>Album Artist</key><string>Bobby Darin</string>
+			<key>Composer</key><string>A Lasry/J Lawrence &#38; C Trenet, Charles Trenet &#38; Jack Lawrence</string>
+			<key>Album</key><string>Rhino Hi-Five: Bobby Darin - EP</string>
+			<key>Genre</key><string>Vocal</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7028988</integer>
+			<key>Total Time</key><integer>172480</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>1960</integer>
+			<key>Date Modified</key><date>2019-05-21T19:10:47Z</date>
+			<key>Date Added</key><date>2015-07-16T13:35:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1960-01-01T08:00:00Z</date>
+			<key>Normalization</key><integer>5271</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rhino Hi-Five: Bobby Darin - EP</string>
+			<key>Sort Artist</key><string>Bobby Darin</string>
+			<key>Sort Composer</key><string>Lasry/J Lawrence &#38; C Trenet, Charles Trenet &#38; Jack Lawrence</string>
+			<key>Sort Name</key><string>Beyond the Sea</string>
+			<key>Persistent ID</key><string>C340E6F53729CE8E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Bobby%20Darin/Rhino%20Hi-Five_%20Bobby%20Darin%20-%20EP/02%20Beyond%20the%20Sea.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>986</key>
+		<dict>
+			<key>Track ID</key><integer>986</integer>
+			<key>Name</key><string>Just a Day (Full Length)</string>
+			<key>Artist</key><string>Feeder</string>
+			<key>Album Artist</key><string>Feeder</string>
+			<key>Album</key><string>Just a Day - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9174650</integer>
+			<key>Total Time</key><integer>246560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2019-05-21T19:13:37Z</date>
+			<key>Date Added</key><date>2014-05-12T11:55:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1999-08-30T07:00:00Z</date>
+			<key>Normalization</key><integer>27949</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Just a Day - EP</string>
+			<key>Sort Artist</key><string>Feeder</string>
+			<key>Sort Name</key><string>Just a Day (Full Length)</string>
+			<key>Persistent ID</key><string>B827D872E0680600</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Feeder/Just%20a%20Day%20-%20EP/01%20Just%20a%20Day%20(Full%20Length).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1091</key>
+		<dict>
+			<key>Track ID</key><integer>1091</integer>
+			<key>Name</key><string>Wrath of the Lich King (Main Title)</string>
+			<key>Artist</key><string>Derek Duke, Glenn Stafford &#38; Russell Brower</string>
+			<key>Album Artist</key><string>Derek Duke, Glenn Stafford &#38; Russell Brower</string>
+			<key>Album</key><string>World of Warcraft: Wrath of the Lich King (Original Game Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>18750835</integer>
+			<key>Total Time</key><integer>536653</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-05-21T19:12:54Z</date>
+			<key>Date Added</key><date>2014-10-04T23:13:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Release Date</key><date>2008-11-13T08:00:00Z</date>
+			<key>Normalization</key><integer>2422</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>World of Warcraft: Wrath of the Lich King (Original Game Soundtrack)</string>
+			<key>Sort Artist</key><string>Derek Duke, Glenn Stafford &#38; Russell Brower</string>
+			<key>Sort Name</key><string>Wrath of the Lich King (Main Title)</string>
+			<key>Persistent ID</key><string>E3247646B8EA5EA3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Derek%20Duke,%20Glenn%20Stafford%20&#38;%20Russell%20Bro/World%20of%20Warcraft_%20Wrath%20of%20the%20Lich%20Kin/01%20Wrath%20of%20the%20Lich%20King%20(Main%20Titl.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1094</key>
+		<dict>
+			<key>Track ID</key><integer>1094</integer>
+			<key>Name</key><string>Land of Confusion</string>
+			<key>Artist</key><string>Disturbed</string>
+			<key>Album Artist</key><string>Disturbed</string>
+			<key>Album</key><string>Ten Thousand Fists (Bonus Track Version)</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10136679</integer>
+			<key>Total Time</key><integer>287066</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2019-05-21T19:12:58Z</date>
+			<key>Date Added</key><date>2013-04-25T07:21:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2005-09-20T07:00:00Z</date>
+			<key>Normalization</key><integer>11606</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ten Thousand Fists (Bonus Track Version)</string>
+			<key>Sort Artist</key><string>Disturbed</string>
+			<key>Sort Name</key><string>Land of Confusion</string>
+			<key>Persistent ID</key><string>8CFED879C8F4973B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Disturbed/Ten%20Thousand%20Fists%20(Bonus%20Track%20Version)/11%20Land%20of%20Confusion.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1106</key>
+		<dict>
+			<key>Track ID</key><integer>1106</integer>
+			<key>Name</key><string>Doomsday</string>
+			<key>Artist</key><string>Nero</string>
+			<key>Album Artist</key><string>Nero</string>
+			<key>Composer</key><string>Daniel Stephens, Joseph Ray &#38; John Adams</string>
+			<key>Album</key><string>Welcome Reality</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8984363</integer>
+			<key>Total Time</key><integer>251649</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-05-21T19:16:20Z</date>
+			<key>Date Added</key><date>2015-03-09T00:13:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-08-12T07:00:00Z</date>
+			<key>Normalization</key><integer>7535</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Welcome Reality</string>
+			<key>Sort Artist</key><string>Nero</string>
+			<key>Sort Name</key><string>Doomsday</string>
+			<key>Persistent ID</key><string>4C6931E73AE2DB7F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Nero/Welcome%20Reality/02%20Doomsday.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1118</key>
+		<dict>
+			<key>Track ID</key><integer>1118</integer>
+			<key>Name</key><string>Civilisation (Bongo, Bongo, Bongo)</string>
+			<key>Artist</key><string>Danny Kaye &#38; The Andrews Sisters</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Underneath the Arches</string>
+			<key>Genre</key><string>Vocal</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6514746</integer>
+			<key>Total Time</key><integer>183773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2019-05-21T19:18:11Z</date>
+			<key>Date Added</key><date>2014-11-29T22:50:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2005-12-01T08:00:00Z</date>
+			<key>Normalization</key><integer>2387</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Underneath the Arches</string>
+			<key>Sort Artist</key><string>Danny Kaye &#38; The Andrews Sisters</string>
+			<key>Sort Name</key><string>Civilisation (Bongo, Bongo, Bongo)</string>
+			<key>Persistent ID</key><string>C1DB31D54C75B80E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Underneath%20the%20Arches/11%20Civilisation%20(Bongo,%20Bongo,%20Bongo.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1136</key>
+		<dict>
+			<key>Track ID</key><integer>1136</integer>
+			<key>Name</key><string>Into Each Life Some Rain Must Fall</string>
+			<key>Artist</key><string>The Ink Spots &#38; Ella Fitzgerald</string>
+			<key>Album Artist</key><string>The Ink Spots</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5258702</integer>
+			<key>Total Time</key><integer>192701</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>60</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2019-05-21T19:14:03Z</date>
+			<key>Date Added</key><date>2014-11-29T22:54:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1986-01-01T08:00:00Z</date>
+			<key>Normalization</key><integer>833</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Greatest Hits</string>
+			<key>Sort Album Artist</key><string>Ink Spots</string>
+			<key>Sort Artist</key><string>Ink Spots &#38; Ella Fitzgerald</string>
+			<key>Sort Name</key><string>Into Each Life Some Rain Must Fall</string>
+			<key>Persistent ID</key><string>6E99BD9FE371CED9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Greatest%20Hits/06%20Into%20Each%20Life%20Some%20Rain%20Must%20Fal.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1145</key>
+		<dict>
+			<key>Track ID</key><integer>1145</integer>
+			<key>Name</key><string>Maybe</string>
+			<key>Artist</key><string>The Ink Spots</string>
+			<key>Album Artist</key><string>The Ink Spots</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5122013</integer>
+			<key>Total Time</key><integer>187140</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>60</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2019-05-21T19:14:06Z</date>
+			<key>Date Added</key><date>2014-11-29T22:56:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1999-10-01T07:00:00Z</date>
+			<key>Normalization</key><integer>971</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Greatest Hits</string>
+			<key>Sort Album Artist</key><string>Ink Spots</string>
+			<key>Sort Artist</key><string>Ink Spots</string>
+			<key>Sort Name</key><string>Maybe</string>
+			<key>Persistent ID</key><string>67342421FD7F73AA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Greatest%20Hits/05%20Maybe.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1196</key>
+		<dict>
+			<key>Track ID</key><integer>1196</integer>
+			<key>Name</key><string>Big Iron</string>
+			<key>Artist</key><string>Marty Robbins</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Songs from the Mojave Wasteland - Music as Heard in Fallout: New Vegas</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8418851</integer>
+			<key>Total Time</key><integer>234814</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1958</integer>
+			<key>Date Modified</key><date>2019-05-21T19:18:04Z</date>
+			<key>Date Added</key><date>2015-11-25T15:23:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1958-01-01T08:00:00Z</date>
+			<key>Normalization</key><integer>4616</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs from the Mojave Wasteland - Music as Heard in Fallout: New Vegas</string>
+			<key>Sort Artist</key><string>Marty Robbins</string>
+			<key>Sort Name</key><string>Big Iron</string>
+			<key>Persistent ID</key><string>F7C35F2FBFF87936</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Songs%20from%20the%20Mojave%20Wasteland%20-%20Music/02%20Big%20Iron.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1205</key>
+		<dict>
+			<key>Track ID</key><integer>1205</integer>
+			<key>Name</key><string>We Didn't Start the Fire</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album Artist</key><string>Billy Joel</string>
+			<key>Composer</key><string>Billy Joel</string>
+			<key>Album</key><string>Piano Man: The Very Best of Billy Joel</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10267635</integer>
+			<key>Total Time</key><integer>290486</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2019-05-21T19:10:26Z</date>
+			<key>Date Added</key><date>2017-05-03T08:45:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1989-09-27T07:00:00Z</date>
+			<key>Normalization</key><integer>3601</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Piano Man: The Very Best of Billy Joel</string>
+			<key>Sort Artist</key><string>Billy Joel</string>
+			<key>Sort Name</key><string>We Didn't Start the Fire</string>
+			<key>Persistent ID</key><string>ED5E820D8F51CDC2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Piano%20Man_%20The%20Very%20Best%20of%20Billy%20Joel/07%20We%20Didn't%20Start%20the%20Fire.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1217</key>
+		<dict>
+			<key>Track ID</key><integer>1217</integer>
+			<key>Name</key><string>Always the Last to Know</string>
+			<key>Artist</key><string>Del Amitri</string>
+			<key>Album Artist</key><string>Del Amitri</string>
+			<key>Composer</key><string>Justin Currie</string>
+			<key>Album</key><string>Hatful of Rain - The Best of Del Amitri</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9241400</integer>
+			<key>Total Time</key><integer>257000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2019-05-21T19:12:26Z</date>
+			<key>Date Added</key><date>2015-07-16T13:42:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1998-09-14T07:00:00Z</date>
+			<key>Normalization</key><integer>3177</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hatful of Rain - The Best of Del Amitri</string>
+			<key>Sort Artist</key><string>Del Amitri</string>
+			<key>Sort Name</key><string>Always the Last to Know</string>
+			<key>Persistent ID</key><string>AF0BDED4EF7D0482</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Hatful%20of%20Rain%20-%20The%20Best%20of%20Del%20Amitri/06%20Always%20the%20Last%20to%20Know.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1277</key>
+		<dict>
+			<key>Track ID</key><integer>1277</integer>
+			<key>Name</key><string>The River of Dreams</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album Artist</key><string>Billy Joel</string>
+			<key>Composer</key><string>Billy Joel</string>
+			<key>Album</key><string>Piano Man: The Very Best of Billy Joel</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9305866</integer>
+			<key>Total Time</key><integer>246473</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2019-05-21T19:10:22Z</date>
+			<key>Date Added</key><date>2017-05-03T08:45:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2004-11-15T08:00:00Z</date>
+			<key>Normalization</key><integer>3192</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Piano Man: The Very Best of Billy Joel</string>
+			<key>Sort Artist</key><string>Billy Joel</string>
+			<key>Sort Name</key><string>River of Dreams</string>
+			<key>Persistent ID</key><string>6B1678A9BA73B65D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Piano%20Man_%20The%20Very%20Best%20of%20Billy%20Joel/05%20The%20River%20of%20Dreams.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1280</key>
+		<dict>
+			<key>Track ID</key><integer>1280</integer>
+			<key>Name</key><string>Piano Man (Radio Edit)</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album Artist</key><string>Billy Joel</string>
+			<key>Composer</key><string>Billy Joel</string>
+			<key>Album</key><string>Piano Man: The Very Best of Billy Joel</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9691015</integer>
+			<key>Total Time</key><integer>274727</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2019-05-21T19:10:16Z</date>
+			<key>Date Added</key><date>2017-05-03T08:45:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2004-11-15T08:00:00Z</date>
+			<key>Normalization</key><integer>3322</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Piano Man: The Very Best of Billy Joel</string>
+			<key>Sort Artist</key><string>Billy Joel</string>
+			<key>Sort Name</key><string>Piano Man (Radio Edit)</string>
+			<key>Persistent ID</key><string>92D1D9874E541D3A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Piano%20Man_%20The%20Very%20Best%20of%20Billy%20Joel/03%20Piano%20Man%20(Radio%20Edit).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1328</key>
+		<dict>
+			<key>Track ID</key><integer>1328</integer>
+			<key>Name</key><string>An Innocent Man</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album Artist</key><string>Billy Joel</string>
+			<key>Composer</key><string>Billy Joel</string>
+			<key>Album</key><string>Piano Man: The Very Best of Billy Joel</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11192102</integer>
+			<key>Total Time</key><integer>322001</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2019-05-21T19:10:32Z</date>
+			<key>Date Added</key><date>2017-05-03T08:45:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1983-08-08T07:00:00Z</date>
+			<key>Normalization</key><integer>2008</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Piano Man: The Very Best of Billy Joel</string>
+			<key>Sort Artist</key><string>Billy Joel</string>
+			<key>Sort Name</key><string>Innocent Man</string>
+			<key>Persistent ID</key><string>2466866ADB027523</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Piano%20Man_%20The%20Very%20Best%20of%20Billy%20Joel/13%20An%20Innocent%20Man.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1346</key>
+		<dict>
+			<key>Track ID</key><integer>1346</integer>
+			<key>Name</key><string>Beyond the Sea (La Mer)</string>
+			<key>Artist</key><string>Django Reinhardt &#38; The Quintet of the Hot Club of France</string>
+			<key>Album Artist</key><string>Django Reinhardt</string>
+			<key>Composer</key><string>Charles Trenet, Albert Lasry &#38; Jack Lawrence</string>
+			<key>Album</key><string>Djangology</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7485802</integer>
+			<key>Total Time</key><integer>256266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2019-05-21T19:12:58Z</date>
+			<key>Date Added</key><date>2016-07-21T22:31:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1994-01-01T00:00:00Z</date>
+			<key>Normalization</key><integer>807</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Djangology</string>
+			<key>Sort Artist</key><string>Django Reinhardt &#38; The Quintet of the Hot Club of France</string>
+			<key>Sort Name</key><string>Beyond the Sea (La Mer)</string>
+			<key>Persistent ID</key><string>EC469D035C5B5EA1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Django%20Reinhardt/Djangology/04%20Beyond%20the%20Sea%20(La%20Mer).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1361</key>
+		<dict>
+			<key>Track ID</key><integer>1361</integer>
+			<key>Name</key><string>Spit in the Rain</string>
+			<key>Artist</key><string>Del Amitri</string>
+			<key>Album Artist</key><string>Del Amitri</string>
+			<key>Composer</key><string>Justin Currie</string>
+			<key>Album</key><string>Hatful of Rain - The Best of Del Amitri</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8132225</integer>
+			<key>Total Time</key><integer>221797</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2019-05-21T19:12:27Z</date>
+			<key>Date Added</key><date>2015-07-16T13:42:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1998-09-14T07:00:00Z</date>
+			<key>Normalization</key><integer>3427</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hatful of Rain - The Best of Del Amitri</string>
+			<key>Sort Artist</key><string>Del Amitri</string>
+			<key>Sort Name</key><string>Spit in the Rain</string>
+			<key>Persistent ID</key><string>CD986D2FA82CB51A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Hatful%20of%20Rain%20-%20The%20Best%20of%20Del%20Amitri/09%20Spit%20in%20the%20Rain.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1367</key>
+		<dict>
+			<key>Track ID</key><integer>1367</integer>
+			<key>Name</key><string>God Bless The Child</string>
+			<key>Artist</key><string>Billie Holiday and Her Orchestra</string>
+			<key>Album Artist</key><string>Billie Holiday</string>
+			<key>Composer</key><string>Arthur Herzog, Jr.</string>
+			<key>Album</key><string>Billie Holiday's Greatest Hits</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6872047</integer>
+			<key>Total Time</key><integer>189173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1942</integer>
+			<key>Date Modified</key><date>2019-05-21T19:09:59Z</date>
+			<key>Date Added</key><date>2016-07-21T22:38:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1942-01-01T08:00:00Z</date>
+			<key>Normalization</key><integer>847</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Billie Holiday's Greatest Hits</string>
+			<key>Sort Artist</key><string>Billie Holiday and Her Orchestra</string>
+			<key>Sort Name</key><string>God Bless The Child</string>
+			<key>Persistent ID</key><string>D213B1D24C5363E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Billie%20Holiday's%20Greatest%20Hits/07%20God%20Bless%20The%20Child.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1491</key>
+		<dict>
+			<key>Track ID</key><integer>1491</integer>
+			<key>Name</key><string>Fortunate Son</string>
+			<key>Artist</key><string>Creedence Clearwater Revival</string>
+			<key>Album Artist</key><string>Creedence Clearwater Revival</string>
+			<key>Composer</key><string>John Fogerty</string>
+			<key>Album</key><string>Best of Creedence Clearwater Revival</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5766680</integer>
+			<key>Total Time</key><integer>137786</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>1969</integer>
+			<key>Date Modified</key><date>2019-05-21T19:11:18Z</date>
+			<key>Date Added</key><date>2017-05-30T07:44:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1969-10-01T07:00:00Z</date>
+			<key>Normalization</key><integer>6741</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best of Creedence Clearwater Revival</string>
+			<key>Sort Artist</key><string>Creedence Clearwater Revival</string>
+			<key>Sort Name</key><string>Fortunate Son</string>
+			<key>Persistent ID</key><string>BB8AB6EB4B9879C7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Best%20of%20Creedence%20Clearwater%20Revival/09%20Fortunate%20Son.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1497</key>
+		<dict>
+			<key>Track ID</key><integer>1497</integer>
+			<key>Name</key><string>Bad Moon Rising</string>
+			<key>Artist</key><string>Creedence Clearwater Revival</string>
+			<key>Album Artist</key><string>Creedence Clearwater Revival</string>
+			<key>Composer</key><string>John Fogerty</string>
+			<key>Album</key><string>Best of Creedence Clearwater Revival</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5577868</integer>
+			<key>Total Time</key><integer>140186</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>1969</integer>
+			<key>Date Modified</key><date>2019-05-21T19:11:15Z</date>
+			<key>Date Added</key><date>2017-05-30T07:43:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1969-04-01T08:00:00Z</date>
+			<key>Normalization</key><integer>4647</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best of Creedence Clearwater Revival</string>
+			<key>Sort Artist</key><string>Creedence Clearwater Revival</string>
+			<key>Sort Name</key><string>Bad Moon Rising</string>
+			<key>Persistent ID</key><string>876C17736474B16B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Best%20of%20Creedence%20Clearwater%20Revival/01%20Bad%20Moon%20Rising.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1534</key>
+		<dict>
+			<key>Track ID</key><integer>1534</integer>
+			<key>Name</key><string>All Along the Watchtower</string>
+			<key>Artist</key><string>Jimi Hendrix</string>
+			<key>Album Artist</key><string>Jimi Hendrix</string>
+			<key>Composer</key><string>Bob Dylan</string>
+			<key>Album</key><string>Voodoo Child: The Jimi Hendrix Collection</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9360161</integer>
+			<key>Total Time</key><integer>241137</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1968</integer>
+			<key>Date Modified</key><date>2019-05-21T19:14:21Z</date>
+			<key>Date Added</key><date>2015-07-19T16:07:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1968-09-21T07:00:00Z</date>
+			<key>Normalization</key><integer>3738</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Voodoo Child: The Jimi Hendrix Collection</string>
+			<key>Sort Artist</key><string>Jimi Hendrix</string>
+			<key>Sort Name</key><string>All Along the Watchtower</string>
+			<key>Persistent ID</key><string>F1DE0E91FBA6FC05</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Voodoo%20Child_%20The%20Jimi%20Hendrix%20Collectio/1-09%20All%20Along%20the%20Watchtower.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1540</key>
+		<dict>
+			<key>Track ID</key><integer>1540</integer>
+			<key>Name</key><string>Way Back Home</string>
+			<key>Artist</key><string>Bob Crosby &#38; The Bob Cats</string>
+			<key>Album Artist</key><string>Bob Crosby &#38; The Bob Cats</string>
+			<key>Album</key><string>The Complete Standard Transcriptions: Bob Crosby and the Bobcats</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6240512</integer>
+			<key>Total Time</key><integer>174823</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2019-05-21T19:10:39Z</date>
+			<key>Date Added</key><date>2014-11-29T22:52:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2000-07-25T07:00:00Z</date>
+			<key>Normalization</key><integer>1056</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Standard Transcriptions: Bob Crosby and the Bobcats</string>
+			<key>Sort Artist</key><string>Bob Crosby &#38; The Bob Cats</string>
+			<key>Sort Name</key><string>Way Back Home</string>
+			<key>Persistent ID</key><string>A38094DE867BA3AF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Bob%20Crosby%20&#38;%20The%20Bob%20Cats/The%20Complete%20Standard%20Transcriptions_%20Bo/02%20Way%20Back%20Home.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1552</key>
+		<dict>
+			<key>Track ID</key><integer>1552</integer>
+			<key>Name</key><string>Pistol Packin' Mama</string>
+			<key>Artist</key><string>Bing Crosby &#38; The Andrews Sisters</string>
+			<key>Album Artist</key><string>Bing Crosby</string>
+			<key>Composer</key><string>Al Dexter</string>
+			<key>Album</key><string>A Centennial Anthology of His Decca Recordings</string>
+			<key>Genre</key><string>Vocal</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6628566</integer>
+			<key>Total Time</key><integer>180560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>1950</integer>
+			<key>Date Modified</key><date>2019-05-21T19:10:34Z</date>
+			<key>Date Added</key><date>2015-11-25T15:24:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1950-01-01T08:00:00Z</date>
+			<key>Normalization</key><integer>1072</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Centennial Anthology of His Decca Recordings</string>
+			<key>Sort Artist</key><string>Bing Crosby &#38; The Andrews Sisters</string>
+			<key>Sort Name</key><string>Pistol Packin' Mama</string>
+			<key>Persistent ID</key><string>0C1277948D5FB723</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/A%20Centennial%20Anthology%20of%20His%20Decca%20Reco/1-09%20Pistol%20Packin'%20Mama.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1660</key>
+		<dict>
+			<key>Track ID</key><integer>1660</integer>
+			<key>Name</key><string>The Burning Legion (Main Title)</string>
+			<key>Artist</key><string>Russell Brower</string>
+			<key>Album Artist</key><string>Russell Brower, Derek Duke &#38; Matt Uelmen</string>
+			<key>Album</key><string>World of Warcraft: The Burning Crusade (Original Game Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9074042</integer>
+			<key>Total Time</key><integer>238666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2019-05-21T19:16:42Z</date>
+			<key>Date Added</key><date>2014-09-08T22:51:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Release Date</key><date>2007-01-16T08:00:00Z</date>
+			<key>Normalization</key><integer>1343</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>World of Warcraft: The Burning Crusade (Original Game Soundtrack)</string>
+			<key>Sort Artist</key><string>Russell Brower</string>
+			<key>Sort Name</key><string>Burning Legion (Main Title)</string>
+			<key>Persistent ID</key><string>129D346CA23BA17D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Russell%20Brower,%20Derek%20Duke%20&#38;%20Matt%20Uelmen/World%20of%20Warcraft_%20The%20Burning%20Crusade%20(/01%20The%20Burning%20Legion%20(Main%20Title).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1705</key>
+		<dict>
+			<key>Track ID</key><integer>1705</integer>
+			<key>Name</key><string>Times Change</string>
+			<key>Artist</key><string>Russell Brower &#38; Neal Acree</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Russell Brower &#38; Neal Acree</string>
+			<key>Album</key><string>World of Warcraft: Warlords of Draenor (Original Game Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9378843</integer>
+			<key>Total Time</key><integer>259536</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2019-05-21T19:18:25Z</date>
+			<key>Date Added</key><date>2017-05-03T23:54:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Release Date</key><date>2014-11-13T08:00:00Z</date>
+			<key>Normalization</key><integer>3477</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>World of Warcraft: Warlords of Draenor (Original Game Soundtrack)</string>
+			<key>Sort Artist</key><string>Russell Brower &#38; Neal Acree</string>
+			<key>Sort Name</key><string>Times Change</string>
+			<key>Persistent ID</key><string>5147461B14C11E8F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/World%20of%20Warcraft_%20Warlords%20of%20Draenor%20(/03%20Times%20Change.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1708</key>
+		<dict>
+			<key>Track ID</key><integer>1708</integer>
+			<key>Name</key><string>Buck Rogers</string>
+			<key>Artist</key><string>Feeder</string>
+			<key>Album Artist</key><string>Feeder</string>
+			<key>Composer</key><string>Grant Nicholas, Jon Lee &#38; Taka Hirose</string>
+			<key>Album</key><string>Echo Park</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6952624</integer>
+			<key>Total Time</key><integer>193133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2019-05-21T19:13:32Z</date>
+			<key>Date Added</key><date>2014-05-12T11:56:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1996-05-15T07:00:00Z</date>
+			<key>Normalization</key><integer>8611</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Echo Park</string>
+			<key>Sort Artist</key><string>Feeder</string>
+			<key>Sort Name</key><string>Buck Rogers</string>
+			<key>Persistent ID</key><string>37057C8D08AA0A5A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Feeder/Echo%20Park/02%20Buck%20Rogers.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1729</key>
+		<dict>
+			<key>Track ID</key><integer>1729</integer>
+			<key>Name</key><string>Rebel Yell</string>
+			<key>Artist</key><string>Billy Idol</string>
+			<key>Album Artist</key><string>Billy Idol</string>
+			<key>Album</key><string>Idolize Yourself: The Very Best of Billy Idol (Remastered)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9839985</integer>
+			<key>Total Time</key><integer>287741</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2019-05-21T19:10:09Z</date>
+			<key>Date Added</key><date>2016-03-27T13:07:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1983-10-24T07:00:00Z</date>
+			<key>Normalization</key><integer>5269</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Idolize Yourself: The Very Best of Billy Idol (Remastered)</string>
+			<key>Sort Artist</key><string>Billy Idol</string>
+			<key>Sort Name</key><string>Rebel Yell</string>
+			<key>Persistent ID</key><string>8E98E04790219BEB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Idolize%20Yourself_%20The%20Very%20Best%20of%20Billy/04%20Rebel%20Yell.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1801</key>
+		<dict>
+			<key>Track ID</key><integer>1801</integer>
+			<key>Name</key><string>The New Order</string>
+			<key>Artist</key><string>Michael John Gordon</string>
+			<key>Album Artist</key><string>Michael John Gordon</string>
+			<key>Album</key><string>Wolfenstein: The New Order Original Game Soundtrack</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7894471</integer>
+			<key>Total Time</key><integer>223889</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2019-05-21T19:15:58Z</date>
+			<key>Date Added</key><date>2014-11-29T22:32:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-05-19T07:00:00Z</date>
+			<key>Normalization</key><integer>2406</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wolfenstein: The New Order Original Game Soundtrack</string>
+			<key>Sort Artist</key><string>Michael John Gordon</string>
+			<key>Sort Name</key><string>New Order</string>
+			<key>Persistent ID</key><string>5BC8343687926EDF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Michael%20John%20Gordon/Wolfenstein_%20The%20New%20Order%20Original%20Game/03%20The%20New%20Order.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1843</key>
+		<dict>
+			<key>Track ID</key><integer>1843</integer>
+			<key>Name</key><string>Distant Sun</string>
+			<key>Artist</key><string>Crowded House</string>
+			<key>Album Artist</key><string>Crowded House</string>
+			<key>Composer</key><string>Neil Finn</string>
+			<key>Album</key><string>The Very Very Best of Crowded House</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8165585</integer>
+			<key>Total Time</key><integer>230993</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2019-05-21T19:11:33Z</date>
+			<key>Date Added</key><date>2017-05-04T00:13:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1993-09-01T07:00:00Z</date>
+			<key>Normalization</key><integer>3522</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Very Very Best of Crowded House</string>
+			<key>Sort Artist</key><string>Crowded House</string>
+			<key>Sort Name</key><string>Distant Sun</string>
+			<key>Persistent ID</key><string>7BE01D04BB35ADBB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/The%20Very%20Very%20Best%20of%20Crowded%20House/06%20Distant%20Sun.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1858</key>
+		<dict>
+			<key>Track ID</key><integer>1858</integer>
+			<key>Name</key><string>Don't Dream It's Over</string>
+			<key>Artist</key><string>Crowded House</string>
+			<key>Album Artist</key><string>Crowded House</string>
+			<key>Composer</key><string>Neil Finn</string>
+			<key>Album</key><string>The Very Very Best of Crowded House</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8398300</integer>
+			<key>Total Time</key><integer>238362</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2019-05-21T19:11:31Z</date>
+			<key>Date Added</key><date>2017-05-04T00:13:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1986-08-01T07:00:00Z</date>
+			<key>Normalization</key><integer>4201</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Very Very Best of Crowded House</string>
+			<key>Sort Artist</key><string>Crowded House</string>
+			<key>Sort Name</key><string>Don't Dream It's Over</string>
+			<key>Persistent ID</key><string>C5583FCFF742DBF8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/The%20Very%20Very%20Best%20of%20Crowded%20House/09%20Don't%20Dream%20It's%20Over.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1864</key>
+		<dict>
+			<key>Track ID</key><integer>1864</integer>
+			<key>Name</key><string>Snake Eater</string>
+			<key>Artist</key><string>Cynthia Harrell</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Norihiko Hibino</string>
+			<key>Album</key><string>Metal Gear Solid Vocal Tracks</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6321813</integer>
+			<key>Total Time</key><integer>178080</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2019-05-21T19:17:53Z</date>
+			<key>Date Added</key><date>2017-08-10T10:00:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-07-18T07:00:00Z</date>
+			<key>Normalization</key><integer>2326</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Metal Gear Solid Vocal Tracks</string>
+			<key>Sort Artist</key><string>Cynthia Harrell</string>
+			<key>Sort Name</key><string>Snake Eater</string>
+			<key>Persistent ID</key><string>B3C00FC3BCCE7B83</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Metal%20Gear%20Solid%20Vocal%20Tracks/03%20Snake%20Eater.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1870</key>
+		<dict>
+			<key>Track ID</key><integer>1870</integer>
+			<key>Name</key><string>Let's Go Sunning</string>
+			<key>Artist</key><string>Shaindlin Jack</string>
+			<key>Album Artist</key><string>Paolo Buonvino &#38; Giuliano Taviani</string>
+			<key>Composer</key><string>Shaindlin Jack</string>
+			<key>Album</key><string>Il giorno in più (Colonna sonora originale)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>3666486</integer>
+			<key>Total Time</key><integer>103333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>22</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2019-05-21T19:16:23Z</date>
+			<key>Date Added</key><date>2014-11-29T22:55:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1998-04-22T07:00:00Z</date>
+			<key>Normalization</key><integer>2536</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Il giorno in più (Colonna sonora originale)</string>
+			<key>Sort Artist</key><string>Shaindlin Jack</string>
+			<key>Sort Name</key><string>Let's Go Sunning</string>
+			<key>Persistent ID</key><string>4723B41C00545FBF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Il%20giorno%20in%20pi%C3%B9%20(Colonna%20sonora%20origina/22%20Let's%20Go%20Sunning.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1882</key>
+		<dict>
+			<key>Track ID</key><integer>1882</integer>
+			<key>Name</key><string>One More Time</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Composer</key><string>Anthony Moore, Guy-Manuel de Homem-Christo &#38; Thomas Bangalter</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11135957</integer>
+			<key>Total Time</key><integer>320357</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2019-05-21T19:11:46Z</date>
+			<key>Date Added</key><date>2015-08-02T17:44:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2000-11-30T08:00:00Z</date>
+			<key>Normalization</key><integer>1918</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Discovery</string>
+			<key>Sort Artist</key><string>Daft Punk</string>
+			<key>Sort Name</key><string>One More Time</string>
+			<key>Persistent ID</key><string>790B52EC7DD07F06</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Discovery/01%20One%20More%20Time.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1891</key>
+		<dict>
+			<key>Track ID</key><integer>1891</integer>
+			<key>Name</key><string>Are You Gonna Go My Way</string>
+			<key>Artist</key><string>Lenny Kravitz</string>
+			<key>Album Artist</key><string>Lenny Kravitz</string>
+			<key>Composer</key><string>Lenny Kravitz &#38; Craig Ross</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8272822</integer>
+			<key>Total Time</key><integer>211533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2019-05-21T19:15:17Z</date>
+			<key>Date Added</key><date>2016-04-06T17:13:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1993-02-22T08:00:00Z</date>
+			<key>Normalization</key><integer>9048</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Greatest Hits</string>
+			<key>Sort Artist</key><string>Lenny Kravitz</string>
+			<key>Sort Name</key><string>Are You Gonna Go My Way</string>
+			<key>Persistent ID</key><string>94C5942DD35E277B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Greatest%20Hits/01%20Are%20You%20Gonna%20Go%20My%20Way.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1897</key>
+		<dict>
+			<key>Track ID</key><integer>1897</integer>
+			<key>Name</key><string>Voyager</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Composer</key><string>Guy-Manuel de Homem-Christo &#38; Thomas Bangalter</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8987080</integer>
+			<key>Total Time</key><integer>227866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2019-05-21T19:11:53Z</date>
+			<key>Date Added</key><date>2015-08-02T17:44:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2001-02-26T08:00:00Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Discovery</string>
+			<key>Sort Artist</key><string>Daft Punk</string>
+			<key>Sort Name</key><string>Voyager</string>
+			<key>Persistent ID</key><string>F8C11E53256B802C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Discovery/10%20Voyager.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1909</key>
+		<dict>
+			<key>Track ID</key><integer>1909</integer>
+			<key>Name</key><string>Boogie Man</string>
+			<key>Artist</key><string>Sid Phillips &#38; His Melodians</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Phillips</string>
+			<key>Album</key><string>Jump the Rhine - Volume One</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5415499</integer>
+			<key>Total Time</key><integer>145866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>26</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2019-05-21T19:17:53Z</date>
+			<key>Date Added</key><date>2014-11-29T22:46:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1994-04-20T07:00:00Z</date>
+			<key>Normalization</key><integer>1110</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Jump the Rhine - Volume One</string>
+			<key>Sort Artist</key><string>Sid Phillips &#38; His Melodians</string>
+			<key>Sort Name</key><string>Boogie Man</string>
+			<key>Persistent ID</key><string>4DA2FF5805C829B0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Jump%20the%20Rhine%20-%20Volume%20One/04%20Boogie%20Man.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1927</key>
+		<dict>
+			<key>Track ID</key><integer>1927</integer>
+			<key>Name</key><string>Bfg Division</string>
+			<key>Artist</key><string>Mick Gordon</string>
+			<key>Album Artist</key><string>Mick Gordon</string>
+			<key>Album</key><string>Doom (Original Game Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>18078065</integer>
+			<key>Total Time</key><integer>506762</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>31</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-05-21T19:16:21Z</date>
+			<key>Date Added</key><date>2017-05-04T01:17:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-09-28T07:00:00Z</date>
+			<key>Normalization</key><integer>5158</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Doom (Original Game Soundtrack)</string>
+			<key>Sort Artist</key><string>Mick Gordon</string>
+			<key>Sort Name</key><string>Bfg Division</string>
+			<key>Persistent ID</key><string>781B0C0D34B07932</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Mick%20Gordon/Doom%20(Original%20Game%20Soundtrack)/11%20Bfg%20Division.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1939</key>
+		<dict>
+			<key>Track ID</key><integer>1939</integer>
+			<key>Name</key><string>Everything Is Going to Be Okay</string>
+			<key>Artist</key><string>Mick Gordon</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Prey (Original Game Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5681585</integer>
+			<key>Total Time</key><integer>149413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-05-21T19:17:59Z</date>
+			<key>Date Added</key><date>2017-05-04T00:34:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-05-02T07:00:00Z</date>
+			<key>Normalization</key><integer>3976</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Prey (Original Game Soundtrack)</string>
+			<key>Sort Artist</key><string>Mick Gordon</string>
+			<key>Sort Name</key><string>Everything Is Going to Be Okay</string>
+			<key>Persistent ID</key><string>299D4FB3A61C6405</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/Prey%20(Original%20Game%20Soundtrack)/02%20Everything%20Is%20Going%20to%20Be%20Okay.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1951</key>
+		<dict>
+			<key>Track ID</key><integer>1951</integer>
+			<key>Name</key><string>Harder Better Faster Stronger</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Composer</key><string>Guy-Manuel de Homem-Christo, E. Birdsong, Thomas Bangalter &#38; Edwin Birdsong</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8524545</integer>
+			<key>Total Time</key><integer>224693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2019-05-21T19:11:50Z</date>
+			<key>Date Added</key><date>2015-08-02T17:44:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2001-02-26T08:00:00Z</date>
+			<key>Normalization</key><integer>2608</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Discovery</string>
+			<key>Sort Artist</key><string>Daft Punk</string>
+			<key>Sort Name</key><string>Harder Better Faster Stronger</string>
+			<key>Persistent ID</key><string>FF4A4916A4EC07CD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Discovery/04%20Harder%20Better%20Faster%20Stronger.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1960</key>
+		<dict>
+			<key>Track ID</key><integer>1960</integer>
+			<key>Name</key><string>The Grid</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Composer</key><string>Thomas Bangalter &#38; Guy-Manuel de Homem-Christo</string>
+			<key>Album</key><string>TRON: Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>3817021</integer>
+			<key>Total Time</key><integer>96746</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2019-05-21T19:12:04Z</date>
+			<key>Date Added</key><date>2015-03-11T00:04:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-12-03T08:00:00Z</date>
+			<key>Normalization</key><integer>1691</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>TRON: Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>Daft Punk</string>
+			<key>Sort Name</key><string>Grid</string>
+			<key>Persistent ID</key><string>BE87DCAE0E34A68E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/TRON_%20Legacy%20(Original%20Motion%20Picture%20So/02%20The%20Grid.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1972</key>
+		<dict>
+			<key>Track ID</key><integer>1972</integer>
+			<key>Name</key><string>RUNNING IN THE 90S</string>
+			<key>Artist</key><string>MAX COVERI</string>
+			<key>Album Artist</key><string>SUPER EUROBEAT (Various Artists)</string>
+			<key>Composer</key><string>GELMETTI/PRANDONI/MORONI</string>
+			<key>Album</key><string>SUPER EUROBEAT VOL.85</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8980991</integer>
+			<key>Total Time</key><integer>234400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2019-05-21T19:17:07Z</date>
+			<key>Date Added</key><date>2017-07-02T16:19:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1998-02-25T08:00:00Z</date>
+			<key>Normalization</key><integer>9743</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>SUPER EUROBEAT VOL.85</string>
+			<key>Sort Artist</key><string>MAX COVERI</string>
+			<key>Sort Name</key><string>RUNNING IN THE 90S</string>
+			<key>Persistent ID</key><string>E7F0CDAF7D41F8D7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Compilations/SUPER%20EUROBEAT%20VOL.85/07%20RUNNING%20IN%20THE%2090S.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1996</key>
+		<dict>
+			<key>Track ID</key><integer>1996</integer>
+			<key>Name</key><string>Sabotage</string>
+			<key>Artist</key><string>Beastie Boys</string>
+			<key>Album Artist</key><string>Beastie Boys</string>
+			<key>Album</key><string>Ill Communication</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6619521</integer>
+			<key>Total Time</key><integer>178440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2019-05-21T19:09:51Z</date>
+			<key>Date Added</key><date>2015-02-22T15:01:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1994-05-23T07:00:00Z</date>
+			<key>Normalization</key><integer>3526</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ill Communication</string>
+			<key>Sort Artist</key><string>Beastie Boys</string>
+			<key>Sort Name</key><string>Sabotage</string>
+			<key>Persistent ID</key><string>581371FA09BC68DD</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Beastie%20Boys/Ill%20Communication/06%20Sabotage.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2041</key>
+		<dict>
+			<key>Track ID</key><integer>2041</integer>
+			<key>Name</key><string>Weapon of Choice</string>
+			<key>Artist</key><string>Fatboy Slim</string>
+			<key>Album Artist</key><string>Fatboy Slim</string>
+			<key>Composer</key><string>Norman Cook, William Collins, Ashley Slater, Sylvester Stewart, Andreas Titus &#38; William McLean</string>
+			<key>Album</key><string>Why Try Harder - The Greatest Hits (Deluxe UK Edition)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7908101</integer>
+			<key>Total Time</key><integer>219813</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2019-05-21T19:13:37Z</date>
+			<key>Date Added</key><date>2015-10-03T20:41:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2000-11-06T08:00:00Z</date>
+			<key>Normalization</key><integer>4473</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Why Try Harder - The Greatest Hits (Deluxe UK Edition)</string>
+			<key>Sort Artist</key><string>Fatboy Slim</string>
+			<key>Sort Name</key><string>Weapon of Choice</string>
+			<key>Persistent ID</key><string>3D6C02F03B692F07</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Fatboy%20Slim/Why%20Try%20Harder%20-%20The%20Greatest%20Hits%20(Delu/08%20Weapon%20of%20Choice.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2110</key>
+		<dict>
+			<key>Track ID</key><integer>2110</integer>
+			<key>Name</key><string>Digital Love</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Composer</key><string>Guy-Manuel de Homem-Christo, G Duke, DJ Sneak, Thomas Bangalter, Carlos Sosa, George Duke, Guy-Manuel de Homem-Christo &#38; Thomas Bangalter</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11555692</integer>
+			<key>Total Time</key><integer>301373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2019-05-21T19:11:47Z</date>
+			<key>Date Added</key><date>2015-08-02T17:44:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2001-02-26T08:00:00Z</date>
+			<key>Normalization</key><integer>2425</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Discovery</string>
+			<key>Sort Artist</key><string>Daft Punk</string>
+			<key>Sort Name</key><string>Digital Love</string>
+			<key>Persistent ID</key><string>7A95FA485C4181C1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Dojod/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Discovery/03%20Digital%20Love.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>PythonPlay</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>3030</integer>
+			<key>Playlist Persistent ID</key><string>E8E5FDD18EC347BE</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>1996</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1367</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>446</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>773</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1729</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1280</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1277</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1205</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1328</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1552</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1540</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>890</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>593</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>295</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>776</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1497</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1491</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1843</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1858</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1882</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2110</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1951</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1897</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1960</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1361</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1091</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>755</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>638</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1094</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1346</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2041</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1708</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>986</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>986</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1136</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>797</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1534</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1891</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>734</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>734</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>860</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>608</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>470</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1801</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1927</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1106</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1870</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1660</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1972</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>605</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1909</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1864</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1939</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1196</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>449</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1118</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1705</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>202</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
