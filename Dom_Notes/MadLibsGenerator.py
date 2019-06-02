@@ -28,3 +28,5 @@ def chooseStory(genre):
 
 def enterInformation(x):
     print(str(scienceFictionStories[x]))
+
+welcome()
