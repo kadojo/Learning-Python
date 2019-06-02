@@ -3,6 +3,7 @@ scienceFictionStories = ["","The *ADJECTIVE1 replicant ran through the *ADJECTIV
 
 def welcome():
     print("Welcome to Mad Libs!")
+    genreSelect()
 
 def genreSelect():
     genre = ''
@@ -27,6 +28,15 @@ def chooseStory(genre):
             enterInformation(x)
 
 def enterInformation(x):
-    print(str(scienceFictionStories[x]))
+    print('Please enter an adjective below:')
+    userInput = input()
+    i = 1
+    adj = '*ADJECTIVE' + str(i)
+    story = scienceFictionStories[int(x)]
+    storySplit = story.split()
+    index = storySplit.index(adj)
+    storySplit[index] = str(userInput)
+    storyJoined = " ".join(storySplit)
+    print(storyJoined)
 
 welcome()
