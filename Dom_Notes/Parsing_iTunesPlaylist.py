@@ -23,8 +23,8 @@ def findDuplicates(fileName):
                 else:
                     # add dictionary entry as tuple (duration, count)
                     trackNames[name] = (duration, 1)
-            except:
-                # ignore
-                pass
+        except:
+            # ignore
+            pass
 
 # UNFINISHED - Not sinking in!!!!! :'(

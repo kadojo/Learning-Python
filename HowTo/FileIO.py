@@ -17,3 +17,7 @@ print(text_in_file)
 
 #Delete the file
 #os.remove("test.txt")
+
+
+#Get Current Directory
+print(os.getcwd()) 
